@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baranemreturkmen" alt="baranemreturkmen" /> </p>
 
-- 🌱 I’m currently learning **Digital Image Processing , Computer Vision , Deep Learning on Python and Embedded C on STM32F407VG Discovery Board**
+- 🌱 I’m currently learning **Digital Image Processing , Computer Vision , Deep Learning on Python**
 
 - 💬 Ask me about **Digital Image Processing on MATLAB DIP Toolbox and Python OpenCV library , Computer Vision on Python OpenCV**
 
