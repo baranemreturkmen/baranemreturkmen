@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baranemreturkmen" alt="baranemreturkmen" /> </p>
 
-- 🌱 I’m currently learning **Digital Image Processing , Computer Vision , Deep Learning on Python and Embeded Systems on C**
+- 🌱 I’m currently learning **Web Development with Java and Spring Hibernate React etc.**
 
 - 💬 Ask me about **Digital Image Processing on MATLAB DIP Toolbox and Python OpenCV library , Computer Vision on Python OpenCV**
 
@@ -11,7 +11,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></p>
+<p align="left"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40"/><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/><img src="https://github.com/detain/svg-logos/blob/master/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen" /></p>
 
