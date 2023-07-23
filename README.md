@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development with Java, Javascript, Spring, Hibernate, Camunda etc. and Mobile Development with React Native**
 
-- 💬 Ask me about **Digital Image Processing on MATLAB DIP Toolbox and Python OpenCV library , Computer Vision on Python OpenCV**
+- 💬 Ask me about **Java, Spring Boot**
 
 - 📫 How to reach me **baranemre1997@gmail.com**
 
