@@ -19,7 +19,7 @@
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/c-sharp.svg" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
   <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/hibernate.svg" alt="Hibernate" width="40" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="Selenium" width="40" height="40"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen" /></p>
