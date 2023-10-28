@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baranemreturkmen" alt="baranemreturkmen" /> </p>
 
-- 🌱 I’m currently learning **Web Development with Java, React, Spring, Hibernate etc., Mobile Development with React Native and Camunda**
+- 🌱 I’m currently learning **Web Development with Java, React, Spring, Hibernate etc. and Camunda**
 
 - 💬 Ask me about **Java, Spring Boot**
 
