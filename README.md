@@ -27,9 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true" alt="baranemreturkmen" /></p>
 
 <p align="center">
-<a href="https://twitter.com/justurkmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="justurkmen" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/baran emre türkmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="baran emre türkmen" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/baran emre türkmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="baran emre türkmen" height="30" width="30" /></a>
-<a href="https://kaggle.com/emre türkmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="emre türkmen" height="30" width="30" /></a>
 <a href="https://medium.com/@baranemre1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@baranemre1997" height="30" width="30" /></a>
 </p>
