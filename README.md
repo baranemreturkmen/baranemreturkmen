@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
   <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/hibernate.svg" alt="Hibernate" width="40" height="40"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/typescript-icon.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/c-sharp.svg" alt="C#" width="40" height="40"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/dotnet.svg" alt="Dotnet" width="40" height="40"/>
