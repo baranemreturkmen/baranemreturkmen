@@ -25,10 +25,16 @@
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/kafka-icon.svg" alt="Kafka" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen" /></p>
+<!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen" /></p-->
+<a href="https://github.com/baranemreturkmen/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&theme=dark">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&theme=default">
+</picture>
+</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true" alt="baranemreturkmen" /></p>
 
-<p align="center">
+<!--p align="center">
 <a href="https://medium.com/@baranemre1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@baranemre1997" height="30" width="30" /></a>
-</p>
+</p-->
