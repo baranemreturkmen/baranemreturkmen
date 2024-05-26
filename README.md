@@ -46,12 +46,6 @@
   </picture>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <picture>
-    <img id="lang-stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&card_width=350" alt="baranemreturkmen" />
-  </picture>
-</div>
-
 <script>
   function updateTheme() {
     const darkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
