@@ -26,13 +26,13 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
 
 <div style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
-  <div id="github-stats-dark" style="display: none;">
+  <div id="github-stats-dark" style="display: block;">
     <img src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&theme=dark" alt="GitHub Stats (Dark Mode)" style="height: 100%;" />
   </div>
   <div id="github-stats-light" style="display: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen" alt="GitHub Stats (Light Mode)" style="height: 100%;" />
   </div>
-  <div id="top-langs-dark" style="display: none;">
+  <div id="top-langs-dark" style="display: block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&theme=dark" alt="Top Languages (Dark Mode)" style="height: 100%;" />
   </div>
   <div id="top-langs-light" style="display: none;">
