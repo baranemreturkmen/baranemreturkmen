@@ -46,22 +46,6 @@
   </picture>
 </div>
 
-<script>
-  function updateTheme() {
-    const darkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-    document.getElementById('github-stats-dark').style.display = darkMode ? 'block' : 'none';
-    document.getElementById('github-stats-light').style.display = darkMode ? 'none' : 'block';
-    document.getElementById('top-langs-dark').style.display = darkMode ? 'block' : 'none';
-    document.getElementById('top-langs-light').style.display = darkMode ? 'none' : 'block';
-  }
-
-  // Initial theme update
-  updateTheme();
-
-  // Listen for theme changes
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateTheme);
-</script>
-
 <!--p align="center">
 <a href="https://medium.com/@baranemre1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@baranemre1997" height="30" width="30" /></a>
 </p-->
