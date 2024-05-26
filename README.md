@@ -11,7 +11,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
   <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/hibernate.svg" alt="Hibernate" width="40" height="40"/>
