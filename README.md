@@ -41,7 +41,7 @@
   
   <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true" alt="baranemreturkmen" /></p-->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&theme=dark">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen" alt="baranemreturkmen" />
   </picture>
 </div>
