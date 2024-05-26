@@ -46,6 +46,25 @@
   </picture>
 </div>
 
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <picture>
+    <img id="lang-stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&card_width=350" alt="baranemreturkmen" />
+  </picture>
+</div>
+
+<script>
+  // Kullanıcının tercih ettiği renk temasını algıla
+  const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  // GitHub istatistiklerinin görünümünü değiştir
+  const langStatsImg = document.getElementById('lang-stats');
+  if (prefersDarkScheme) {
+    langStatsImg.src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&theme=dark&layout=compact&hide=html&card_width=350';
+  } else {
+    langStatsImg.src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&card_width=350';
+  }
+</script>
+
 <!--p align="center">
 <a href="https://medium.com/@baranemre1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@baranemre1997" height="30" width="30" /></a>
 </p-->
