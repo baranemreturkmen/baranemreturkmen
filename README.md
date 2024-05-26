@@ -33,7 +33,7 @@
 </picture>
 </a-->
 
-<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 10;">
+<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&theme=dark&card_width=350">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen style="height: 100%;" />
