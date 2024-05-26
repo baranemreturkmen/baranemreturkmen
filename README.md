@@ -28,8 +28,8 @@
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen" /></p-->
 <a href="https://github.com/baranemreturkmen/github-readme-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&theme=dark">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&theme=dark&layout=compact&hide=html">
+  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&theme=default">
 </picture>
 </a>
 
