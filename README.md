@@ -33,15 +33,15 @@
 </picture>
 </a-->
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&theme=dark&card_width=450">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen" />
   </picture>
   
   <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true" alt="baranemreturkmen" /></p-->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true&theme=dark&card_width=450">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen" />
   </picture>
 </div>
