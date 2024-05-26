@@ -53,16 +53,19 @@
 </div>
 
 <script>
-  // Kullanıcının tercih ettiği renk temasını algıla
-  const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-  // GitHub istatistiklerinin görünümünü değiştir
-  const langStatsImg = document.getElementById('lang-stats');
-  if (prefersDarkScheme) {
-    langStatsImg.src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&theme=dark&layout=compact&hide=html&card_width=350';
-  } else {
-    langStatsImg.src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&card_width=350';
+  function updateTheme() {
+    const darkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    document.getElementById('github-stats-dark').style.display = darkMode ? 'block' : 'none';
+    document.getElementById('github-stats-light').style.display = darkMode ? 'none' : 'block';
+    document.getElementById('top-langs-dark').style.display = darkMode ? 'block' : 'none';
+    document.getElementById('top-langs-light').style.display = darkMode ? 'none' : 'block';
   }
+
+  // Initial theme update
+  updateTheme();
+
+  // Listen for theme changes
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateTheme);
 </script>
 
 <!--p align="center">
