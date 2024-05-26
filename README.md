@@ -35,7 +35,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&theme=dark&card_width=350">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&card_width=350" style="dark">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html&card_width=350" alt="baranemreturkmen" />
   </picture>
   
