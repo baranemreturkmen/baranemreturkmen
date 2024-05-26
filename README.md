@@ -38,7 +38,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen" />
 </picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true" alt="baranemreturkmen" /></p>
+<!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true" alt="baranemreturkmen" /></p-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=baranemreturkmen&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranemreturkmen&layout=compact&hide=html" alt="baranemreturkmen" />
+</picture>
 
 <!--p align="center">
 <a href="https://medium.com/@baranemre1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@baranemre1997" height="30" width="30" /></a>
